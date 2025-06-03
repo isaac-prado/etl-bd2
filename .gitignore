@@ -1,0 +1,15 @@
+/etl_env
+
+/etl_env/
+
+/etl_env/bin
+
+/etl_env/lib
+
+/etl_env/lib/python3.10/site-packages
+
+.env
+.env.local
+.env.development.local
+
+/__pycache__
